@@ -1,3 +1,7 @@
+#=============#
+#  Author :   #
+#  Alex92380  #
+#=============#
 Damage:
   #cancel the damage caused by being in the area when a block explodes.
   BLOCK_EXPLOSION: false
