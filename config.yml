@@ -1,0 +1,57 @@
+Damage:
+  #cancel the damage caused by being in the area when a block explodes.
+  BLOCK_EXPLOSION: false
+  #cancel the damage caused when an entity contacts a block such as a Cactus.
+  CONTACT: false
+  #cancel the damage when an entity is colliding with too many entities due to the maxEntityCramming game rule.
+  CRAMMING: false
+  #cancel the damage of a custom think.
+  CUSTOM: false
+  #cancel the damage caused by a dragon breathing fire.
+  DRAGON_BREATH: false
+  #cancel the damage caused by running out of air while in water.
+  DROWNING: false
+  #cancel the damage caused when an entity that should be in water is not.
+  DRYOUT: false
+  #cancel the damage caused when an entity attacks another entity.
+  ENTITY_ATTACK: false
+  #cancel the damage caused by being in the area when an entity, such as a Creeper,explodes.
+  ENTITY_EXPLOSION: false
+  #cancel the damage caused when an entity attacks another entity in a sweep attack.
+  ENTITY_SWEEP_ATTACK: false
+  #cancel the damage caused when an entity falls a distance greater than 3 blocks.
+  FALL: false
+  #cancel the damage caused by being hit by a falling block which deals damage.
+  FALLING_BLOCK: false
+  #cancel the damage caused by direct exposure to fire.
+  FIRE: false
+  #cancel the damage caused due to burns caused by fire.
+  FIRE_TICK: false
+  #cancel the damage caused when an entity runs into a wall.
+  FLY_INTO_WALL: false
+  #cancel the damage caused when an entity steps on magma block.
+  HOT_FLOOR: false
+  #cancel the damage caused by direct exposure to lava.
+  LAVA: false
+  #cancel the damage caused by being struck by lightning.
+  LIGHTNING: false
+  #cancel the damage caused by being hit by a damage potion or spell.
+  MAGIC: false
+  #cancel the damage caused due to a snowman melting.
+  MELTING: false
+  #cancel the damage caused due to an ongoing poison effect.
+  POISON: false
+  #cancel the damage caused when attacked by a projectile.
+  PROJECTILE: false
+  #cancel the damage caused by starving due to having an empty hunger bar.
+  STARVATION: false
+  #cancel the damage caused by being put in a block.
+  SUFFOCATION: false
+  #cancel the damage caused by committing suicide using the command "/kill".
+  SUICIDE: false
+  #cancel the damage caused in retaliation to another attack by the Thorns enchantment.
+  THORNS: false
+  #cancel the damage caused by falling into the void.
+  VOID: false
+  #cancel the damage caused by Wither potion effect.
+  WITHER: false
